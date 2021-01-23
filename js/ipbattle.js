@@ -2,8 +2,8 @@
 "use strict"
 class Fighter {
 	constructor(n, c) {
-		this.name = n;
-		this.cat = c;
+		this.name = n;	//Name
+		this.cat = c;	//Category
 	}
 
 toString() {
